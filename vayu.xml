@@ -12,6 +12,10 @@
                  fetch="https://github.com/jebaitedneko"
                  revision="r2" />
 
+	<remote  name="dotos"
+		 fetch="https://github.com/DotOS"
+		 revision="dot12.1" />
+
 <!-- Device -->
 	<project name="device_xiaomi_vayu-dot" path="device/xiaomi/vayu" remote="lambada" />
 
@@ -29,4 +33,8 @@
 
 <!-- GCamGO -->
 	<project name="android_packages_apps_GCamGOPrebuilt" path="packages/apps/GCamGOPrebuilt" remote="arrow-devices" />
+
+<!-- Parts resources -->
+	<project name="android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="dotos" />
+
 </manifest>
