@@ -21,9 +21,6 @@
 <!-- Vendor -->
 	<project name="android_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" remote="arrow-devices" />
 
-<!-- Extras -->
-	<project name="android_device_xiaomi_extras" path="device/xiaomi/extras" remote="arrow-devices" />
-
 <!-- GCamGO -->
 	<project name="android_packages_apps_GCamGOPrebuilt" path="packages/apps/GCamGOPrebuilt" remote="arrow-devices" />
 </manifest>
