@@ -13,16 +13,13 @@
                  revision="r2" />
 
 <!-- Device -->
-	<project name="device_xiaomi_vayu-aex" path="device/xiaomi/vayu" remote="lambada" />
+	<project name="device_xiaomi_vayu-blaze" path="device/xiaomi/vayu" remote="lambada" />
 
 <!-- Kernel -->
 	<project name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" remote="jebaitedneko" />
 
 <!-- Vendor -->
 	<project name="android_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" remote="arrow-devices" />
-
-<!-- Hardware -->
-	<project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="arrow-devices" />
 
 <!-- Extras -->
 	<project name="android_device_xiaomi_extras" path="device/xiaomi/extras" remote="arrow-devices" />
