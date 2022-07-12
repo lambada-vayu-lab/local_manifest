@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote  name="lambada"
-		 fetch="https://github.com/lambada-vayu-lab"
-		 revision="master" />
+	<remote  name="blazedevices"
+		 fetch="https://github.com/ProjectBlaze-Devices"
+		 revision="12.1" />
 
         <remote  name="arrow-devices"
                  fetch="https://github.com/ArrowOS-Devices"
@@ -13,7 +13,7 @@
                  revision="r2" />
 
 <!-- Device -->
-	<project name="device_xiaomi_vayu-blaze" path="device/xiaomi/vayu" remote="lambada" />
+	<project name="device_xiaomi_vayu" path="device/xiaomi/vayu" remote="blazedevices" />
 
 <!-- Kernel -->
 	<project name="android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" remote="jebaitedneko" />
