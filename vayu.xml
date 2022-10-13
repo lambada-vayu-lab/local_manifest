@@ -2,11 +2,11 @@
 <manifest>
 	<remote  name="blazedevices"
 		 fetch="https://github.com/ProjectBlaze-Devices"
-		 revision="12.1" />
+		 revision="13" />
 
         <remote  name="arrow-devices"
                  fetch="https://github.com/ArrowOS-Devices"
-                 revision="arrow-12.1" />
+                 revision="arrow-13.0" />
 
         <remote  name="jebaitedneko"
                  fetch="https://github.com/jebaitedneko"
